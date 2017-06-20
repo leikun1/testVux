@@ -26,9 +26,8 @@ export default {
   data () {
     return {
       msg: 'Hello',
-      ctrl: 'Git'
-    }
-  }
+     ctrl: 'Git2.8.1.windows.1'
+    }  }
 }
 </script>
 
